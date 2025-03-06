@@ -34,4 +34,5 @@ public class CommonCharacters {
 
         System.out.println("Common characters: " + commonCharacter);
     }
+
 }
