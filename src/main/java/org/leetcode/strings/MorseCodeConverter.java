@@ -1,4 +1,4 @@
-package org.leetcode;
+package org.leetcode.strings;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,7 +6,7 @@ import java.util.Map;
 public class MorseCodeConverter {
 
     public static void main(String[] args) {
-        getTranslatedValue("Java",TranslationsType.MORSE);
+        getTranslatedValue("Java", TranslationsType.MORSE);
     }
 
     private static final Map<Character, String> ALPHABET_TO_MORSE;

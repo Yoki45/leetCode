@@ -1,4 +1,4 @@
-package org.leetcode;
+package org.leetcode.arrays;
 
 public class AscendingDifference {
 
