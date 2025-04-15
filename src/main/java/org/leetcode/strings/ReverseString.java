@@ -1,4 +1,4 @@
-package org.leetcode.maths;
+package org.leetcode.strings;
 
 public class ReverseString {
 
